@@ -1,2 +1,5 @@
 server:
   port: 2270
+spring:
+  application:
+    name: Article-Server
